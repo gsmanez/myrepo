@@ -1,0 +1,1 @@
+select * from dstst2.ocs_ast fetch first 5 rows only;
